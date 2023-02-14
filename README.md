@@ -1,1 +1,1 @@
-# tribut-page
+# tribute-page
